@@ -1,6 +1,5 @@
-# Assignment 3.1
+Upgraded PyGame :
 
-- Everything mentioned in the assignment has been implemented.
 - **Bonus** :
     - King’s Leviathan Axe has also been implemented.
     - Dragon Character has been added, it can fly over walls.
